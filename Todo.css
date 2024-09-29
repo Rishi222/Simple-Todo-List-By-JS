@@ -1,0 +1,38 @@
+h1{
+    background-color: burlywood;
+    text-decoration: underline;
+}
+#maindiv{
+    background-color: aquamarine;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#contentdiv{
+    background-color: aqua;
+    padding-top: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    /* display:grid; */
+}
+#main{
+    margin-left: 20px;
+    display: list-item;
+}
+#textinfo{
+    text-align: left;
+    padding-left: 20px;
+}
+#listdiv{
+    width: 50%;
+    background-color: rgb(223, 208, 113);
+    /* border: 1px solid black; */
+}
+#deletetododiv{
+    width: 50%;
+    background-color:rgba(34, 231, 93, 0.437);
+}
+/* .delete{
+    display: flex;
+    justify-content:center;
+} */
